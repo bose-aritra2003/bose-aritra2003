@@ -49,6 +49,11 @@
   <a href="https://www.apple.com/in/final-cut-pro/"><img src="https://i.imgur.com/xNUlQqx.png" width="42px" alt="Luminar Neo"/></a>
 </p>
 
+<h1 align="left"><img src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="50px"> My programming analytics  </h1>
+<p align="center">
+  <a href="https://www.mysql.com/"><img src="https://i.imgur.com/nLQbPWL.png" width="45px" alt="HackerRank"/></a>
+</p>
+
 <!---
 bose-aritra2003/bose-aritra2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
