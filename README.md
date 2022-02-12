@@ -14,12 +14,39 @@
 - 📫 Reach me: https://aritrabose.bio.link/
 
 <h1 align="left"><img src="https://c.tenor.com/QHW_ZXV4LUUAAAAi/covid-social-media.gif" width="45px"> Connect with me  </h1>
-<p align="left">
+<p align="center">
   <a href="https://aritrabose.bio.link/"><img src="https://i.imgur.com/F81rpwl.gif" width="50px" alt="Bio Link"/></a>
-  <a href="https://www.linkedin.com/in/bose-aritra2003/"><img src="https://i.imgur.com/Rs5bOwi.gif" width="50px" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/bose_aritra2003/"><img src="https://i.imgur.com/FYDMVYO.gif" width="50px" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/bose-aritra2003/"><img src="https://i.imgur.com/ocLF6w9.png" width="50px" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/bose_aritra2003/"><img src="https://i.imgur.com/kW8LrD3.png" width="50px" alt="Instagram"/></a>
   <a href="https://twitter.com/bose_aritra2003"><img src="https://i.imgur.com/qm4OwSV.gif" width="50px" alt="Twitter"/></a>
-  <a href="https://www.facebook.com/aritrabose2003"><img src="https://i.imgur.com/9M4NDG9.gif" width="50px" alt="Facebook"/></a>
+  <a href="https://www.facebook.com/aritrabose2003"><img src="https://i.imgur.com/KfgAoiN.png" width="50px" alt="Facebook"/></a>
+</p>
+
+<h1 align="left"><img src="https://c.tenor.com/Qzr6WpBLiEAAAAAi/technology-tech.gif" width="45px"> I can work with  </h1>
+
+<h2 align="center">IDEs</h2>
+<p align="center">
+  <a href="https://code.visualstudio.com/"><img src="https://i.imgur.com/yDpqaqo.png" width="40px" alt="Visual Studio Code"/></a>
+  <a href="https://www.jetbrains.com/"><img src="https://i.imgur.com/61BKGDo.png" width="40px" alt="JetBrains"/></a>
+  <a href="https://developer.android.com/studio"><img src="https://i.imgur.com/4xXgvQb.png" width="40px" alt="Android Studio"/></a>
+  <a href="https://developer.apple.com/xcode/"><img src="https://i.imgur.com/0huM3hk.png" width="50px" alt="XCode"/></a>
+</p>
+
+<h2 align="center">Programming Languages</h2>
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://i.imgur.com/8CEA1KU.png" width="40px" alt="Python"/></a>
+  <a href="https://isocpp.org/"><img src="https://i.imgur.com/rQIR1Ll.png" width="40px" alt="C++"/></a>
+  <a href="https://en.cppreference.com/w/c/language"><img src="https://i.imgur.com/x3a1GI1.png" width="40px" alt="C"/></a>
+  <a href="https://www.java.com/en/"><img src="https://i.imgur.com/ayKgrwE.png" width="40px" alt="Java"/></a>
+</p>
+
+<h2 align="center">Technologies</h2>
+<p align="center">
+  <a href="https://www.mysql.com/"><img src="https://i.imgur.com/xiEhebE.png" width="65px" alt="MySQL"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://i.imgur.com/Co5Bv1m.png" width="20px" alt="MongoDB"/></a>
+  <a href="https://www.adobe.com/in/products/photoshop.html"><img src="https://i.imgur.com/ygbkitn.png" width="45px" alt="Photoshop"/></a>
+  <a href="https://skylum.com/luminar-neo"><img src="https://i.imgur.com/DH6YzZI.png" width="45px" alt="Luminar Neo"/></a>
+  <a href="https://www.apple.com/in/final-cut-pro/"><img src="https://i.imgur.com/xNUlQqx.png" width="42px" alt="Luminar Neo"/></a>
 </p>
 
 <!---
