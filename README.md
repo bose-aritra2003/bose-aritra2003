@@ -1,4 +1,4 @@
-# Hi, I am Aritra Bose   <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="45px">
+# Hi <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="45px">, I am Aritra Bose   
 - 👀 Interested to dive deep into Machine Learning and Blockchain
 - 🌱 Currently pursing B.Tech in Information Technology from IIEST Shibpur
 - 💞️ Looking to collaborate on: (May be in the future😅)
