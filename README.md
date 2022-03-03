@@ -46,9 +46,6 @@
 <p align="center">
   <a href="https://www.mysql.com/"><img src="https://i.imgur.com/xiEhebE.png" width="65px" alt="MySQL"/></a>
   <a href="https://www.mongodb.com/"><img src="https://i.imgur.com/Co5Bv1m.png" width="20px" alt="MongoDB"/></a>
-  <a href="https://www.adobe.com/in/products/photoshop.html"><img src="https://i.imgur.com/ygbkitn.png" width="45px" alt="Photoshop"/></a>
-  <a href="https://skylum.com/luminar-neo"><img src="https://i.imgur.com/DH6YzZI.png" width="45px" alt="Luminar Neo"/></a>
-  <a href="https://www.apple.com/in/final-cut-pro/"><img src="https://i.imgur.com/xNUlQqx.png" width="42px" alt="Luminar Neo"/></a>
 </p>
 
 <h3 align="center">Operating Systems</h3>
