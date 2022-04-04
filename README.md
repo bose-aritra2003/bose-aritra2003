@@ -1,6 +1,6 @@
 <h1 align="center"> Hi <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="45px">, I am Aritra Bose  </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2307F700&lines=Amateur+Programmer;Information+Technology+Student;CodeChef+2+⭐️;C%2B%2B+Gold+badge+on+HackerRank;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2307F700&lines=Amateur+Programmer;Information+Technology+Student;CodeChef+2⭐️;C%2B%2B+Gold+badge+on+HackerRank;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
@@ -59,6 +59,7 @@
 <h1 align="left"><img src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="50px"> My programming analytics  </h1>
 <p align="center">
   <a href="https://www.hackerrank.com/bose_aritra2003"><img src="https://i.imgur.com/nLQbPWL.png" width="45px" alt="HackerRank"/></a>
+  <a href="https://www.codechef.com/users/aritra_bose"><img src="https://i.imgur.com/Z5yFsKg.jpg" width="45px" alt="CodeChef"/></a>
 </p>
 
 <!---
