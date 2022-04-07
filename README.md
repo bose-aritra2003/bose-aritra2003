@@ -71,5 +71,5 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bose-aritra2003&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bose-aritra2003"/>
 </p>
