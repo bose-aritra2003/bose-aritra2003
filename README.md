@@ -58,8 +58,8 @@
 
 <h1 align="left"><img src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="50px"> My programming analytics  </h1>
 <p align="center">
-  <a href="https://www.hackerrank.com/bose_aritra2003"><img src="https://i.imgur.com/nLQbPWL.png" width="45px" alt="HackerRank"/></a>
-  <!---<a href="https://www.codechef.com/users/aritra_bose"><img src="https://i.imgur.com/Z5yFsKg.jpg" width="45px" alt="CodeChef"/></a>--->
+  <a href="https://www.hackerrank.com/bose_aritra2003"><img src="https://i.imgur.com/YoGleZM.png" width="250px" alt="HackerRank"/></a>
+  <a href="https://codeforces.com/profile/bose_aritra2003"><img src="https://i.imgur.com/8TyzSJ6.png" width="275px" alt="Codeforces"/></a>
 </p>
 
 <!---
