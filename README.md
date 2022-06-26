@@ -26,34 +26,30 @@
 
 <h1 align="left"><img src="https://c.tenor.com/KvRIHOyJN-sAAAAi/gears-spinning.gif" width="5%"> I can work with  </h1>
 
-<h3 align="center">IDEs</h3>
+<!-- <h3 align="center">IDEs</h3>
 <p align="center">
   <a href="https://code.visualstudio.com/"><img src="https://i.imgur.com/yDpqaqo.png" width="4%" alt="Visual Studio Code"/></a>
   <a href="https://www.jetbrains.com/"><img src="https://i.imgur.com/61BKGDo.png" width="4%" alt="JetBrains"/></a>
   <a href="https://developer.android.com/studio"><img src="https://i.imgur.com/4xXgvQb.png" width="4%" alt="Android Studio"/></a>
   <a href="https://developer.apple.com/xcode/"><img src="https://i.imgur.com/0huM3hk.png" width="6%" alt="XCode"/></a>
-</p>
+</p> -->
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-  <a href="https://www.python.org/"><img src="https://i.imgur.com/8CEA1KU.png" width="4%" alt="Python"/></a>
-  <a href="https://isocpp.org/"><img src="https://i.imgur.com/rQIR1Ll.png" width="4%" alt="C++"/></a>
-  <a href="https://en.cppreference.com/w/c/language"><img src="https://i.imgur.com/x3a1GI1.png" width="4%" alt="C"/></a>
-  <a href="https://www.java.com/en/"><img src="https://i.imgur.com/ayKgrwE.png" width="4%" alt="Java"/></a>
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="50" height="50" alt="Python"/></a>
+  <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/></a>
+  <a href="https://en.cppreference.com/w/c/language"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" width="50" height="50" alt="C"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="50" height="50" alt="Javascript"/></a>
 </p>
 
 <h3 align="center">Technologies</h3>
 <p align="center">
-  <a href="https://www.mysql.com/"><img src="https://i.imgur.com/xiEhebE.png" width="7%" alt="MySQL"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://i.imgur.com/Co5Bv1m.png" width="2%" alt="MongoDB"/></a>
-</p>
-
-<h3 align="center">Operating Systems</h3>
-<p align="center">
-  <a href="https://www.microsoft.com/en-in/windows"><img src="https://i.imgur.com/9qDBfGh.png" width="6%" alt="Windows"/></a>
-  <a href="https://www.kali.org/"><img src="https://www.kali.org/images/kali-dragon-icon.svg" width="8%" alt="Kali Linux"/></a>
-  <a href="https://ubuntu.com/"><img src="https://i.imgur.com/hdLBYIm.png" width="5%" alt="Ubuntu"/></a>
-  <a href="https://www.apple.com/in/macos/"><img src="https://i.imgur.com/hAgUVFc.png" width="6%" alt="MacOS"/></a>
+  
+  <a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="50" height="50" alt="Git"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/></a>
+  <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/></a>
 </p>
 
 <h1 align="left"><img src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="6%"> Profile analytics  </h1>
@@ -69,6 +65,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bose-aritra2003&layout=compact"/>
 </p>
+
+<!-- <p align="center">
+  <img src="https://codeforces-stats-api.herokuapp.com/stats?username=bose_aritra2003&theme=2"/>
+</p> -->
 
 <p align="center">
   <a href="https://www.hackerrank.com/bose_aritra2003"><img src="https://i.imgur.com/YoGleZM.png" width="250px" alt="HackerRank"/></a>
