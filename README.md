@@ -44,7 +44,6 @@
 
 <h3 align="center">Technologies</h3>
 <p align="center">
-  
   <a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="50" height="50" alt="Git"/></a>
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/></a>
@@ -59,18 +58,19 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bose-aritra2003&show_icons=true&theme=chartreuse-dark&hide=contribs,prs,issues"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bose-aritra2003&show_icons=true&theme=dark&hide=contribs,prs"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bose-aritra2003&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bose-aritra2003&layout=compact&theme=dark"/>
+</p>
+
+<h6 align="center">Codeforces profile</h3>
+<p align="center">
+  <a href="https://codeforces.com/profile/bose_aritra2003"><img src="https://codeforces-stats-api.herokuapp.com/stats?username=bose&#95aritra2003&theme=2"/></a>
 </p>
 
 <!-- <p align="center">
-  <img src="https://codeforces-stats-api.herokuapp.com/stats?username=bose_aritra2003&theme=2"/>
-</p> -->
-
-<p align="center">
   <a href="https://www.hackerrank.com/bose_aritra2003"><img src="https://i.imgur.com/YoGleZM.png" width="250px" alt="HackerRank"/></a>
   <a href="https://codeforces.com/profile/bose_aritra2003"><img src="https://i.imgur.com/8TyzSJ6.png" width="275px" alt="Codeforces"/></a>
-</p>
+</p> -->
