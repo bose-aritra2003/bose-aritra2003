@@ -56,20 +56,21 @@
   <a href="https://www.apple.com/in/macos/"><img src="https://i.imgur.com/hAgUVFc.png" width="6%" alt="MacOS"/></a>
 </p>
 
-<h1 align="left"><img src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="6%"> My programming analytics  </h1>
+<h1 align="left"><img src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="6%"> Profile analytics  </h1>
+
 <p align="center">
-  <a href="https://www.hackerrank.com/bose_aritra2003"><img src="https://i.imgur.com/YoGleZM.png" width="250px" alt="HackerRank"/></a>
-  <a href="https://codeforces.com/profile/bose_aritra2003"><img src="https://i.imgur.com/8TyzSJ6.png" width="275px" alt="Codeforces"/></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat&no-bg=true&no-frame=true&column=-1&margin-w=15&margin-h=15"/>
 </p>
 
-<!---
-bose-aritra2003/bose-aritra2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bose-aritra2003&show_icons=true&theme=chartreuse-dark&hide=contribs,prs,issues"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bose-aritra2003"/>
+</p>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/bose_aritra2003"><img src="https://i.imgur.com/YoGleZM.png" width="250px" alt="HackerRank"/></a>
+  <a href="https://codeforces.com/profile/bose_aritra2003"><img src="https://i.imgur.com/8TyzSJ6.png" width="275px" alt="Codeforces"/></a>
 </p>
