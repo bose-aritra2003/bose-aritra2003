@@ -54,7 +54,7 @@
 <h1 align="left"><img src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="6%"> Profile analytics  </h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat&no-bg=true&no-frame=true&column=4&margin-w=20&margin-h=20"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&no-bg=true&no-frame=true&column=4&margin-w=20&margin-h=20"/>
 </p>
 
 <p align="center">
