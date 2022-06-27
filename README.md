@@ -1,4 +1,4 @@
-<h1 align="center"> Hi <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="5%">, I am Aritra Bose  </h1>
+<h1 align="center"> Hi <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="50" height="50">, I am Aritra Bose  </h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2307F700&lines=Amateur+Programmer;Pursuing+B.Tech+in+Information+Technology;996+max+rating+on+Codeforces;C%2B%2B+Gold+badge+on+HackerRank;Always+learning+new+things+.+.+.&center=true&width=500&height=50"></a>
 </p>
@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=bose-aritra2003&color=blueviolet"/>
 </p>
 
-<h1 align="left"><img src="https://c.tenor.com/fmo7ehm6tn0AAAAi/man-tipping-hand-joypixels.gif" width="5%"> About me  </h1>
+<h1 align="left"><img src="https://c.tenor.com/fmo7ehm6tn0AAAAi/man-tipping-hand-joypixels.gif" width="50" height="50"> About me  </h1>
 
 - 👀 Interested to dive deep into `Artificial Intelligence` & `Machine Learning`
 - 🌱 Currently pursing `B.Tech` in `Information Technology` from `IIEST Shibpur`
@@ -15,7 +15,7 @@
 - 💞️ Looking to collaborate on: `Python FOSS`
 - 📫 Reach me: https://aritrabose.bio.link/
 
-<h1 align="left"><img src="https://c.tenor.com/QHW_ZXV4LUUAAAAi/covid-social-media.gif" width="5%"> Connect with me  </h1>
+<h1 align="left"><img src="https://c.tenor.com/QHW_ZXV4LUUAAAAi/covid-social-media.gif" width="50" height="50"> Connect with me  </h1>
 <p align="center">
   <a href="https://aritrabose.bio.link/"><img src="https://i.imgur.com/exot03O.png" width="6%" alt="Bio Link"/></a>
   <a href="https://www.linkedin.com/in/bose-aritra2003/"><img src="https://i.imgur.com/ocLF6w9.png" width="6%" alt="LinkedIn"/></a>
@@ -24,15 +24,7 @@
   <a href="https://www.facebook.com/aritrabose2003"><img src="https://i.imgur.com/KfgAoiN.png" width="6%" alt="Facebook"/></a>
 </p>
 
-<h1 align="left"><img src="https://c.tenor.com/KvRIHOyJN-sAAAAi/gears-spinning.gif" width="5%"> I can work with  </h1>
-
-<!-- <h3 align="center">IDEs</h3>
-<p align="center">
-  <a href="https://code.visualstudio.com/"><img src="https://i.imgur.com/yDpqaqo.png" width="4%" alt="Visual Studio Code"/></a>
-  <a href="https://www.jetbrains.com/"><img src="https://i.imgur.com/61BKGDo.png" width="4%" alt="JetBrains"/></a>
-  <a href="https://developer.android.com/studio"><img src="https://i.imgur.com/4xXgvQb.png" width="4%" alt="Android Studio"/></a>
-  <a href="https://developer.apple.com/xcode/"><img src="https://i.imgur.com/0huM3hk.png" width="6%" alt="XCode"/></a>
-</p> -->
+<h1 align="left"><img src="https://c.tenor.com/KvRIHOyJN-sAAAAi/gears-spinning.gif" width="50" height="50"> I can work with  </h1>
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -51,7 +43,7 @@
   <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/></a>
 </p>
 
-<h1 align="left"><img src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="6%"> Profile analytics  </h1>
+<h1 align="left"><img src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="50" height="50"> Profile stats  </h1>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&no-bg=true&no-frame=true&column=4&margin-w=20&margin-h=20"/>
