@@ -43,6 +43,16 @@
   <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/></a>
 </p>
 
+<h3 align="center">IDEs</h3>
+<p align="center">
+  <a href="https://www.jetbrains.com/pycharm/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pycharm/pycharm-original.svg" width="45" height="45" alt="Pycharm"/></a>
+  <a href="https://developer.android.com/studio"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" width="45" height="45" alt="Android Studio"/></a>
+  <a href="https://www.jetbrains.com/clion/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/intellij/intellij-original.svg" width="45" height="45" alt="CLion"/></a>
+   <a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" width="45" height="45" alt="VSCode"/></a>
+  <a href="https://www.jetbrains.com/webstorm/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webstorm/webstorm-original.svg" width="45" height="45" alt="Webstorm"/></a>
+ <a href="https://developer.apple.com/xcode/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/xcode/xcode-original.svg" width="45" height="45" alt="XCode"/></a>
+</p>
+
 <h1 align="left"><img src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="50" height="50"> Profile stats  </h1>
 
 <p align="center">
@@ -61,8 +71,3 @@
 <p align="center">
   <a href="https://codeforces.com/profile/bose_aritra2003"><img src="https://codeforces-stats-api.herokuapp.com/stats?username=bose&#95aritra2003&theme=2"/></a>
 </p>
-
-<!-- <p align="center">
-  <a href="https://www.hackerrank.com/bose_aritra2003"><img src="https://i.imgur.com/YoGleZM.png" width="250px" alt="HackerRank"/></a>
-  <a href="https://codeforces.com/profile/bose_aritra2003"><img src="https://i.imgur.com/8TyzSJ6.png" width="275px" alt="Codeforces"/></a>
-</p> -->
