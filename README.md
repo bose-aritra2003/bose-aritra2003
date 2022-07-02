@@ -66,8 +66,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bose-aritra2003&layout=compact&theme=dark"/>
 </p>
-
-<h6 align="center">Codeforces profile</h3>
-<p align="center">
-  <a href="https://codeforces.com/profile/bose_aritra2003"><img src="https://codeforces-stats-api.herokuapp.com/stats?username=bose&#95aritra2003&theme=2"/></a>
-</p>
