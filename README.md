@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bose-aritra2003&show_icons=true&theme=dark&hide=contribs,prs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bose-aritra2003&show_icons=true&theme=dark&hide=contribs"/>
 </p>
 
 <p align="center">
