@@ -1,6 +1,6 @@
 <h1 align="center"> Hi <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="50" height="50">, I am Aritra Bose  </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2307F700&lines=Amateur+Programmer;Pursuing+B.Tech+in+Information+Technology;996+max+rating+on+Codeforces;C%2B%2B+Gold+badge+on+HackerRank;Always+learning+new+things+.+.+.&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2307F700&lines=Welcome+to+my+GitHub;Know+more+about+me+below+👇;Have+a+look+at+my+repositories...&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
