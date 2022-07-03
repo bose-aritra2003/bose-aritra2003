@@ -56,11 +56,15 @@
 <h1 align="left"><img src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="50" height="50"> Profile stats  </h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&no-bg=true&no-frame=true&column=4&margin-w=20&margin-h=20"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&no-bg=true&column=4&margin-w=20&margin-h=20"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bose-aritra2003&show_icons=true&theme=dark&hide=contribs,issues"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bose-aritra2003&show_icons=true&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=bose-aritra2003&theme=dark"/>
 </p>
 
 <p align="center">
