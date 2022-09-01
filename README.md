@@ -41,6 +41,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/></a>
   <a href="https://www.selenium.dev"><img src="https://avatars.githubusercontent.com/u/983927?s=200&v=4" width="50" height="50" alt="Selenium"/></a>
+  <a href="https://flask.palletsprojects.com/en/2.2.x/"><img src="https://i.imgur.com/RoNHFk2.png" width="50" height="50" alt="Flask"/></a>
 </p>
 
 <h3 align="center">IDEs</h3>
