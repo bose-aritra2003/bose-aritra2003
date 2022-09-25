@@ -62,6 +62,10 @@
 </p>
 
 <p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=bose-aritra2003&theme=react-dark"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bose-aritra2003&show_icons=true&theme=dark"/>
 </p>
 
