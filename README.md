@@ -13,7 +13,8 @@
 - 🌱 Currently pursing `B.Tech` in `Information Technology` from `IIEST Shibpur`
 - :technologist: Been exposed to the world of `Coding` since `5th grade`
 - 💞️ Looking to collaborate on: `Python FOSS`
-- 📫 Reach me: https://aritrabose.bio.link/
+- 📫 Reach me: https://aritrabose.bio.link
+- My Resume: <a href="https://drive.google.com/file/d/1HTx0RrvZtnBUu01-LbES-pMmo8bjtbQQ/view?usp=sharing">View PDF</a>
 
 <h1 align="left"><img src="https://c.tenor.com/QHW_ZXV4LUUAAAAi/covid-social-media.gif" width="50" height="50"> Connect with me  </h1>
 <p align="center">
