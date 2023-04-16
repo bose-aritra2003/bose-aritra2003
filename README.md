@@ -14,7 +14,7 @@
 - :technologist: Been exposed to the world of `Coding` since `5th grade`
 - 💞️ Looking to collaborate on: `Python, Deep Learning`
 - 📫 Reach me: https://aritrabose.bio.link
-- My Resume: <a href="https://drive.google.com/file/d/1Xi0u6jcRa3A2i-61tPFYjf4GNjvqtUF8/view?usp=share_link">View PDF</a>
+- 📄 My Resume: <a href="https://drive.google.com/file/d/1Xi0u6jcRa3A2i-61tPFYjf4GNjvqtUF8/view?usp=share_link">View PDF</a>
 
 <h1 align="left"><img src="https://c.tenor.com/QHW_ZXV4LUUAAAAi/covid-social-media.gif" width="50" height="50"> Connect with me  </h1>
 <p align="center">
