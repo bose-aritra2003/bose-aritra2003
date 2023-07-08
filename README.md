@@ -32,7 +32,7 @@
 
 <h2 align="left"><img src="https://c.tenor.com/KvRIHOyJN-sAAAAi/gears-spinning.gif" width="48"> I can work with  </h2>
 
-<h3 align="left">Languages</h3>
+<h4 align="left">Languages</h4>
 <p align="left">
   <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++"/></a>  
   <a href="https://en.cppreference.com/w/c/language"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" height="48" alt="C"/></a>  
@@ -44,7 +44,7 @@
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" height="48" alt="Python"/></a>
 </p>
 
-<h3 align="left">Technologies</h3>
+<h4 align="left">Technologies</h4>
 <p align="left">
 <a href="https://git-scm.com"><img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" height="48" alt="NextJS"/></a>   
 <a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="48" alt="React"/></a>
