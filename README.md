@@ -11,8 +11,8 @@
   - 👀 Full Stack web developer and Deep Learning enthusiast
   - 🌱 Currently pursing `B.Tech` in `Information Technology` from `IIEST Shibpur`
   - :technologist: Been exposed to the world of `Coding` since `5th grade`
-  - 📫 Reach me: [My Portfolio](https://aritrabose.vercel.app)
-  - 📄 My Resume: <a href="https://drive.google.com/file/d/1Key2_ra7dWBmg9pqy1beSal_E_EniZ9g/view?usp=share_link">View PDF</a>
+  - 📫 Reach me: <a target="_blank" href="https://aritrabose.vercel.app">My Portfolio</a>
+  - 📄 My Resume: <a target="_blank" href="https://drive.google.com/file/d/1Key2_ra7dWBmg9pqy1beSal_E_EniZ9g/view?usp=share_link">View PDF</a>
 
 </p>
 
