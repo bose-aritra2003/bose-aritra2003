@@ -18,7 +18,7 @@
 
 <h1 align="left"><img src="https://c.tenor.com/QHW_ZXV4LUUAAAAi/covid-social-media.gif" width="50" height="50"> Connect with me  </h1>
 <p align="center">
-  <a href="https://aritrabose.bio.link/"><img src="https://i.imgur.com/exot03O.png" height="48" alt="Bio Link"/></a>
+  <a href="https://aritrabose.vercel.app"><img src="https://i.imgur.com/exot03O.png" height="48" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/bose-aritra2003/"><img src="https://i.imgur.com/ocLF6w9.png" height="48" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/bose_aritra2003/"><img src="https://i.imgur.com/kW8LrD3.png" height="48" alt="Instagram"/></a>
   <a href="https://twitter.com/bose_aritra2003"><img src="https://i.imgur.com/qm4OwSV.gif" width="48" alt="Twitter"/></a>
@@ -28,13 +28,14 @@
 <h1 align="left"><img src="https://c.tenor.com/KvRIHOyJN-sAAAAi/gears-spinning.gif" width="50" height="50"> I can work with  </h1>
 
 <h3 align="center">Languages</h3>
-<p align="center">  
+<p align="center">
   <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++"/></a>  
   <a href="https://en.cppreference.com/w/c/language"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" height="48" alt="C"/></a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" height="48" alt="Javascript"/></a>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="48" alt="Typescript"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" height="48" alt="HTML5"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" height="48" alt="CSS3"/></a>  
+  <a href="https://isocpp.org/"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="48" alt="Java"/></a>  
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" height="48" alt="Python"/></a>
 </p>
 
@@ -53,22 +54,21 @@
 
 <h1 align="left"><img src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="50" height="50"> Profile stats  </h1>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bose-aritra2003&theme=onedark&no-bg=true&column=-1&margin-w=15&margin-h=20&show_icons=true&rank_icon=github"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=bose-aritra2003&theme=onedark&no-bg=true&no-frame=true&column=-1&margin-w=15&margin-h=20&show_icons=true&rank_icon=github&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
 </p>
 
 <p align="center">
-<img width="250"  height="60" align="center" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/df96a80f-eab5-469c-a0c3-a705c30ba42a"/>
+<img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bose-aritra2003&layout=compact&theme=dark"/>
+<img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=bose-aritra2003&show_icons=true&theme=dark"/>  
+</p>
+
+
+<p align="center">
+<img width="250"  height="60" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/df96a80f-eab5-469c-a0c3-a705c30ba42a"/>
 </p>
 
 <p align="center">
- <img height="500" align="left" width="150" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/5425529e-e2be-4198-a127-b9c6407179bf">
-  
-  <img align="center" width="450" src="http://github-readme-streak-stats.herokuapp.com?user=bose-aritra2003&theme=dark"/>
-
-<p align="center">
-  <img height="500" align="right" width="150" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/80c7dce6-4792-4370-826b-a60520b00c73">  
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bose-aritra2003&layout=compact&theme=dark"/>
-</p>
+  <img height="500" width="150" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/5425529e-e2be-4198-a127-b9c6407179bf">
+  <img align="top" width="450" src="http://github-readme-streak-stats.herokuapp.com?user=bose-aritra2003&theme=dark"/>  
+  <img height="500" width="150" src="https://github.com/umershaikh123/umershaikh123/assets/42178214/80c7dce6-4792-4370-826b-a60520b00c73"/> 
+</div>
